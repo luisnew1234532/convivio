@@ -1,0 +1,98 @@
+
+@media screen and (min-width:300px) and (max-width:800px) {
+    body{font-size:0.8em;}
+    sidebar{display:none;}
+    img{max-width:100%;}
+    }
+
+body{
+    background-color:  rgb(224, 230, 241);
+}
+
+.contenedor{
+    text-align: center;
+    background: rgb(155, 182, 228);
+
+
+}
+
+.peroso img{
+    width: 350px;
+    height: 250px;
+    position:absolute;
+    top:100px;
+    left: 100px;
+}
+.obede img{
+    width: 350px;
+    height: 250px;
+    position:absolute;
+    top:100px;
+    left: 500px;
+}
+
+.convi img{
+    width: 350px;
+    height: 250px;
+    position:absolute;
+    top:100px;
+    left: 900px;
+}
+
+.crist{
+    position: absolute;
+    top: 380px;
+    left: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: brown;
+}
+
+.colo{
+    color: darkblue;
+
+}
+
+.herm{
+    color: green;
+}
+
+.pie{
+    color: indigo;
+}
+
+.cristi img{
+    width: 400px;
+    height: 300px;
+    position:absolute;
+    top:450px;
+    left: 800px; 
+}
+
+.boni{
+    position: absolute;
+    top: 370px;
+    left: 930px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: rgb(247, 212, 15);
+}
+
+.centere img{
+    width: 400px;
+    height: 300px;
+    position:absolute;
+    top:850px;
+    left: 530px; 
+    display: flex;
+}
+
+.mari{
+    position: absolute;
+    top: 770px;
+    left: 530px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: rgb(224, 66, 127);
+    
+}
