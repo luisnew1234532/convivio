@@ -24,11 +24,11 @@ body{
     top:100px;
     left: 100px;
     object-fit: cover;
-    transition: 0.5s;   
+    transition: 0.3s;   
         
 }
 .peroso img:hover{
-    transform: scale(1.5) rotate(30deg);
+    transform: scale(2) rotate(20deg);
 
 }
 .obede img{
@@ -38,10 +38,10 @@ body{
     top:100px;
     left: 500px;
     object-fit: cover;
-    transition: 0.5s;   
+    transition: 0.3s;   
 }
 .obede img:hover{
-    transform: scale(1.5) rotate(30deg);
+    transform: scale(2) rotate(20deg);
 
 }
 
@@ -52,10 +52,10 @@ body{
     top:100px;
     left: 900px;
     object-fit: cover;
-    transition: 0.5s;   
+    transition: 0.3s;   
 }
 .convi img:hover{
-    transform: scale(1.5) rotate(30deg);
+    transform: scale(2) rotate(20deg);
 
 }
 
