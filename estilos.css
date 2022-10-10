@@ -1,9 +1,28 @@
 
-@media screen and (min-width:300px) and (max-width:800px) {
-    body{font-size:0.8em;}
-    sidebar{display:none;}
-    img{max-width:100%;}
+        
+@media screen and (max-width: 980px){
+    #contenedor{
+        width: 90%;
     }
+    #contenido{
+        width: 60%;
+    }
+    #barra_lateral{
+        width:30%;
+    }
+}
+@media screen and (max-width: 480px){
+    #encabezado{
+        height: auto;
+    }
+    #contenido{
+        width: auto;
+    }
+    #barra_lateral{
+        display:none;
+    }
+}
+
 
 body{
     background-color:  rgb(224, 230, 241);
