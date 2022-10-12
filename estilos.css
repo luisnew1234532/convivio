@@ -122,3 +122,15 @@ body{
     color: rgb(224, 66, 127);
     
 }
+
+.video{
+    position: absolute;
+    top: 850px;
+    left: 50px;
+}
+
+.rrrr{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
